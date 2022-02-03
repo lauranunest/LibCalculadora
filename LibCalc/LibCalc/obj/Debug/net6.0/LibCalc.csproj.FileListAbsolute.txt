@@ -1,0 +1,12 @@
+C:\Users\011024631\Downloads\Calculadora\LibCalc\LibCalc\bin\Debug\net6.0\LibCalc.deps.json
+C:\Users\011024631\Downloads\Calculadora\LibCalc\LibCalc\bin\Debug\net6.0\LibCalc.dll
+C:\Users\011024631\Downloads\Calculadora\LibCalc\LibCalc\bin\Debug\net6.0\ref\LibCalc.dll
+C:\Users\011024631\Downloads\Calculadora\LibCalc\LibCalc\bin\Debug\net6.0\LibCalc.pdb
+C:\Users\011024631\Downloads\Calculadora\LibCalc\LibCalc\obj\Debug\net6.0\LibCalc.csproj.AssemblyReference.cache
+C:\Users\011024631\Downloads\Calculadora\LibCalc\LibCalc\obj\Debug\net6.0\LibCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\011024631\Downloads\Calculadora\LibCalc\LibCalc\obj\Debug\net6.0\LibCalc.AssemblyInfoInputs.cache
+C:\Users\011024631\Downloads\Calculadora\LibCalc\LibCalc\obj\Debug\net6.0\LibCalc.AssemblyInfo.cs
+C:\Users\011024631\Downloads\Calculadora\LibCalc\LibCalc\obj\Debug\net6.0\LibCalc.csproj.CoreCompileInputs.cache
+C:\Users\011024631\Downloads\Calculadora\LibCalc\LibCalc\obj\Debug\net6.0\LibCalc.dll
+C:\Users\011024631\Downloads\Calculadora\LibCalc\LibCalc\obj\Debug\net6.0\ref\LibCalc.dll
+C:\Users\011024631\Downloads\Calculadora\LibCalc\LibCalc\obj\Debug\net6.0\LibCalc.pdb
